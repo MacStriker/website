@@ -1,0 +1,19 @@
+html {
+		background: #112;
+		color: #fff;
+		font-family: 'SF Pro', sans-serif;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+}
+
+body {
+		max-width: 1024px;
+		margin: 0 auto;
+}
+
+h1 {
+		background: -webkit-linear-gradient(#fff, #888);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+}
